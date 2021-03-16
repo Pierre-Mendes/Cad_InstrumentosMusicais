@@ -1,0 +1,7 @@
+jao;10;10;22;joao;Corda;le;ld;2
+Nice;10;10;22;joao;Corda;le;la;3
+zika;10;10;22;joao;Corda;la;le;2
+la;10;10;11;joao;Corda;ld;ld;2
+la;10;10;22;joao;Percussão;ld;la;ld
+la;10;10;22;joao;Sopro;ld;ld
+joao;10;10;11;joao;Corda;;la;2
